@@ -5,7 +5,7 @@ namespace BlTest
 {
     internal class Program
     {
-        static readonly IBl s_bl = BlApi.Factory.Get();
+        static readonly IBl s_bl = Factory.Get();
 
         static void Main()
         {

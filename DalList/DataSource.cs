@@ -1,6 +1,7 @@
-﻿using System.Diagnostics.Metrics;
+﻿using DO;
+using System.Diagnostics.Metrics;
 
-namespace DO;
+namespace Dal;
 
 internal static class DataSource
 {

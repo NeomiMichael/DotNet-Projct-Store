@@ -10,9 +10,16 @@ internal class Program
 
     public static void Main(string[] args)
     {
-        Initialization.Initialize();
+        
         try
         {
+            Console.WriteLine("Do you want to initialize data? press 1");
+            int Select;
+            if (!int.TryParse(Console.ReadLine(), out Select))
+                Select = 0;
+            if (Select == 1)
+                Initialization.Initialize();
+
             int select = PrintMainMenu();
             while (select != 0)
             {

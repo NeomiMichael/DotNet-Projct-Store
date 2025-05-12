@@ -1,5 +1,4 @@
-﻿using DalApi;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,8 +9,8 @@ namespace BlApi
     public interface IBl
     {
         IProduct Product { get; }
-        Icustomer Customer { get; }
-        Isale Sale { get; }
+        ICustomer Customer { get; }
+        ISale Sale { get; }
         IOrder Order { get; }   
     }
 }
