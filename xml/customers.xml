@@ -1,30 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCustomer>
   <Customer>
-    <CustomerId>35454223</CustomerId>
-    <CustomerName>שלמה</CustomerName>
-    <Address>שלמה המלך 7</Address>
-    <Phone>0556787414</Phone>
-  </Customer>
-  <Customer>
-    <CustomerId>234525343</CustomerId>
-    <CustomerName>שבי</CustomerName>
-    <Address>רבי עקיבא 6</Address>
-    <Phone>0556791242</Phone>
-  </Customer>
-  <Customer>
-    <CustomerId>34534567</CustomerId>
-    <CustomerName>אפרת</CustomerName>
-    <Address>מסילת יוסף 15</Address>
-    <Phone>0556791242</Phone>
-  </Customer>
-  <Customer>
-    <CustomerId>32123443</CustomerId>
-    <CustomerName>דוד</CustomerName>
-    <Address>יהודה הנשיא 34</Address>
-    <Phone>0556791242</Phone>
-  </Customer>
-  <Customer>
     <CustomerId>34545343</CustomerId>
     <CustomerName>מיכל</CustomerName>
     <Address>המסגר 52</Address>
@@ -41,5 +17,17 @@
     <CustomerName>neomi</CustomerName>
     <Address>rambam</Address>
     <Phone>0556784733</Phone>
+  </Customer>
+  <Customer>
+    <CustomerId>252526598</CustomerId>
+    <CustomerName>נעמי</CustomerName>
+    <Address>רמבם</Address>
+    <Phone>0556784733</Phone>
+  </Customer>
+  <Customer>
+    <CustomerId>265887896</CustomerId>
+    <CustomerName>מיכל</CustomerName>
+    <Address>נתיבות המשפט</Address>
+    <Phone>0583260035</Phone>
   </Customer>
 </ArrayOfCustomer>

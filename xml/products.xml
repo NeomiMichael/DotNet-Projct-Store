@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product>
-    <id>1</id>
-    <product_name>חלב</product_name>
-    <category>milky</category>
-    <price>5.5</price>
-    <amount>50</amount>
-  </Product>
-  <Product>
     <id>2</id>
     <product_name>גבינה</product_name>
     <category>milky</category>
@@ -41,5 +34,33 @@
     <category>meaty</category>
     <price>5.9</price>
     <amount>50</amount>
+  </Product>
+  <Product>
+    <id>7</id>
+    <product_name>ss</product_name>
+    <category>fruit</category>
+    <price>2</price>
+    <amount>2</amount>
+  </Product>
+  <Product>
+    <id>8</id>
+    <product_name>dd</product_name>
+    <category>fruit</category>
+    <price>2</price>
+    <amount>2</amount>
+  </Product>
+  <Product>
+    <id>9</id>
+    <product_name>שוקו</product_name>
+    <category>milky</category>
+    <price>3</price>
+    <amount>34</amount>
+  </Product>
+  <Product>
+    <id>10</id>
+    <product_name>שוקו</product_name>
+    <category>milky</category>
+    <price>3</price>
+    <amount>34</amount>
   </Product>
 </ArrayOfProduct>
